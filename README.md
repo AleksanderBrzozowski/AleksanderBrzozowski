@@ -1,10 +1,3 @@
-<style type="text/css" rel="stylesheet">
-  img.icon {
-      width: 48px;
-      height: 48px;
-  }
-</style>
-
 <div align="center">
   <h1>Hi there 👋 </h1>
 
@@ -48,27 +41,27 @@
 <div align="center">
   <h2>Languages & Development Tools</h2>
   <a href="https://golang.org/">
-    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+    <img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
   </a>
   <a href="https://kotlinlang.org/">
-    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+    <img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   </a>
   <a href="https://groovy-lang.org/">
-    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" />
+    <img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" />
   </a>
   <a href="https://reactjs.org">
-    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a>
   <a href="https://spring.io">
-    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+    <img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   </a>
   <a href="https://docker.com/">
-    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   </a>
   <a href="https://github.com/">
-    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </a>
   <a href="https://www.jetbrains.com/idea/">
-    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+    <img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
   </a>
 </div>
