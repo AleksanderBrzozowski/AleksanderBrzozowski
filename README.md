@@ -17,22 +17,22 @@
 <div align="center">
   <h2>During this year, I contributed to the following repositories</h2>
   <a href="https://github.com/JLLeitschuh/ktlint-gradle"">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JLLeitschuh&repo=ktlint-gradle&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JLLeitschuh&repo=ktlint-gradle&theme=default" />
   </a>
   <a href="https://github.com/allegro/hermes">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=allegro&repo=hermes&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=allegro&repo=hermes&theme=default" />
   </a>
   <a href="https://github.com/spring-io/initializr">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spring-io&repo=initializr&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spring-io&repo=initializr&theme=default" />
   </a>
   <a href="https://github.com/allegro/hacktoberfest-dashboard">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=allegro&repo=hacktoberfest-dashboard&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=allegro&repo=hacktoberfest-dashboard&theme=default" />
   </a>
   <a href="https://github.com/resilience4j/resilience4j">
-      <img  src="https://github-readme-stats.vercel.app/api/pin/?username=resilience4j&repo=resilience4j&theme=tokyonight" />
+      <img  src="https://github-readme-stats.vercel.app/api/pin/?username=resilience4j&repo=resilience4j&theme=default" />
   </a>
   <a href="https://github.com/oskardudycz/ArchitectureWeekly">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=oskardudycz&repo=ArchitectureWeekly&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=oskardudycz&repo=ArchitectureWeekly&theme=default" />
   </a>
 </div>
 
