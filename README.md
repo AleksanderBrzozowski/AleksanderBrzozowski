@@ -1,16 +1,74 @@
-### Hi there 👋
+<style type="text/css" rel="stylesheet">
+  img.icon {
+      width: 48px;
+      height: 48px;
+  }
+</style>
 
-<!--
-**AleksanderBrzozowski/AleksanderBrzozowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>Hi there 👋 </h1>
 
-Here are some ideas to get you started:
+  <div>
+    <a href="https://www.linkedin.com/in/aleksander-brzozowski/">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="https://www.goodreads.com/user/show/128293181-aleksander-brzozowski">
+      <img src="https://img.shields.io/badge/goodreads-%23F4F1EA?style=for-the-badge&logo=goodreads&logoColor=%23927F64" />
+    </a>
+  </div>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<div align="center">
+  <h2>During this year, I contributed to the following repositories</h2>
+  <a href="https://github.com/JLLeitschuh/ktlint-gradle"">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JLLeitschuh&repo=ktlint-gradle&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/allegro/hermes">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=allegro&repo=hermes&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/spring-io/initializr">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spring-io&repo=initializr&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/allegro/hacktoberfest-dashboard">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=allegro&repo=hacktoberfest-dashboard&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/resilience4j/resilience4j">
+      <img  src="https://github-readme-stats.vercel.app/api/pin/?username=resilience4j&repo=resilience4j&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/oskardudycz/ArchitectureWeekly">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=oskardudycz&repo=ArchitectureWeekly&theme=tokyonight" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <h2>Languages & Development Tools</h2>
+  <a href="https://golang.org/">
+    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+  </a>
+  <a href="https://kotlinlang.org/">
+    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  </a>
+  <a href="https://groovy-lang.org/">
+    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" />
+  </a>
+  <a href="https://reactjs.org">
+    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  </a>
+  <a href="https://spring.io">
+    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  </a>
+  <a href="https://docker.com/">
+    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  </a>
+  <a href="https://github.com/">
+    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  </a>
+  <a href="https://www.jetbrains.com/idea/">
+    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+  </a>
+</div>
