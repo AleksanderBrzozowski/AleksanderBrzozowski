@@ -9,6 +9,9 @@
     <a href="https://www.goodreads.com/user/show/128293181-aleksander-brzozowski">
       <img src="https://img.shields.io/badge/goodreads-%23F4F1EA?style=for-the-badge&logo=goodreads&logoColor=%23927F64" />
     </a>
+    <a href="mailto:olek.brzozowski@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
   </div>
 </div>
 
